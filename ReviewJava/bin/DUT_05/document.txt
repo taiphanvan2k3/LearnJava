@@ -1,0 +1,4 @@
+Lập trình đồ hoạ
+-Để có thể vẽ thì vẽ là 1 container:
++ Vẽ chuỗi: drawString, toạ độ của chuỗi là chân của xâu,đo chiều dài chuỗi được vẽ ra bằng FontMetrics
++repaint: khi có sự thay đổi gì về frame thì hàm repaint được gọi và sẽ gọi đến hàm paint để vẽ lại

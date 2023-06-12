@@ -1,0 +1,4 @@
+Day di hoc buoi sang, 06h30, 10
+Day di hoc buoi trua, 12h00, 1
+Hoc Toan, 08h00, 5
+Hoc Van, 10h00, 3

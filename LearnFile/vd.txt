@@ -1,0 +1,2 @@
+﻿Đây là cách hướng dẫn đọc file ko cần đường dẫn
+rắc rối.Chỉ cần bỏ file vào project rồi gọi tên file ra là được

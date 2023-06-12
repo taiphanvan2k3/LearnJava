@@ -1,0 +1,5 @@
+LinkedList: thêm, xoá phần tử nhanh hơn ArrayList
+Để có thể sắp xếp 1 ArrayList các class 
+
+-SWING:
++ Khi màn hình có 2 Frame mà nếu set exit_on_close cho cả 2 frame thì khi frame này tắt thì frame kia cũng tắt

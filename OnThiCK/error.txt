@@ -1,0 +1,5 @@
+Dong 1: Khong them insert do vi pham khoa chinh,...
+Dong 2: Sai dinh dang ngay sinh, Sai dinh dang gioi tinh
+Dong 3: Sai dinh dang ngay sinh
+Dong 4: Sai dinh dang ngay sinh
+Dong 5: Sai dinh dang diem thi

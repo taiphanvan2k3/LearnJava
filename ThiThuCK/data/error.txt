@@ -1,0 +1,4 @@
+Dong 1:Gia tri diem thi khong hop le
+Dong 2:Gia tri diem thi khong hop le
+Dong 3:Sai dinh dang diem thi
+Dong 4:Sai dinh dang MaHocVien,Sai dinh dang Ngaysinh,Sai dinh dang GioiTinh,Sai dinh dang diem thi

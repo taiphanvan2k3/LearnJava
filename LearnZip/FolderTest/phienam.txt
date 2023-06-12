@@ -1,0 +1,84 @@
+﻿[heˈloʊ]
+hello-xin chào,chào-verb;2,1
+[ˈsɔːr.i]
+sorry-xin lỗi-verb;1,1
+[ˌɡʊd ˈmɔːr.nɪŋ]
+good morning-chào buổi sáng-verb;1,1
+[ˈmoʊ.t̬ɚ.baɪk]
+motorbike-xe máy-noun;1,2
+[ˈbaɪ.sə.kəl]
+bicycle-xe đạp-noun;1,2
+[ɡʊdˈbaɪ]
+goodbye-tạm biệt-verb;1,1
+[plænt]
+plant-cây cối,thực vật,nhà máy-noun;3,1
+[kaʊ]
+cow-con bò-noun;1,1
+[haʊs]
+house-nhà-noun;1,1
+[ˈhel.ɪˌkɒp.tər]
+helicopter-máy bay trực thăng-noun;1,2
+[ˈteɪ.bəl]
+table-bàn ăn-noun;1,1
+[ˈrʌk.sæk]
+rucksack-ba lô,cặp sách-noun;2,3
+[kəmˈpjuː.tər]
+computer-máy tính-noun;1,2
+[læmp]
+lamp-đèn-noun;1,2
+[maʊs]
+mouse-con chuột-noun;1,2
+[ˈhɪs.tər.i]
+history-lịch sử-noun;1,3
+[mæθ]
+math-toán học-noun;1,3
+[ˈɝː.dʒənt]
+urgent-cấp bách-adjective;1,4
+[ˈeɪ.dʒənt]
+agent-đại lí bán hàng,hãng buôn-noun;2,4
+[pæθ]
+path-con đường,đường đi-noun;2,4
+[kʌt]
+cut-cắt,di chuyển-verb;2,2
+[kæt]
+cat-con mèo-noun;1,1
+[ˈpen.səl]
+pencil-bút chì-noun;1,1
+[ɪkˈspres]
+express-biểu hiện,thể hiện-verb;1,4
+[ˈræp.ɪd.li]
+rapidly-nhanh chóng-adverb;1,4
+[ˈkwɪk.li]
+quickly-nhanh chóng-adverb;1,4
+[ˈkʊk.i]
+cookie-bánh quy-noun;1,2
+[ˈkæl.kjə.leɪ.tər]
+calculator-máy tính cầm tay,máy tính bỏ túi-noun;2,3
+[skuːl]
+school-trường học-noun;1,2
+[ˈpeɪ.tʃek]
+paycheck-tiền lương-noun;1,4
+[dʒɑːb]
+job-công việc-noun;1,3
+[ˈɑː.fəl]
+awful-tồi tệ,trang nghiêm-adjective;2,5
+[ˈɔː.fəl.i]
+awfully-khủng khiếp,rất,cực kì-adverb;3,5
+[əˈɡriː.ə.bəl]
+agreeable-dễ chịu,dễ thương-adjective;2,5
+[ˈsiː.kwəns]
+sequence-sự liên tiếp,liên tục-noun;2,4
+[rɪˈzuːm]
+résumé-sơ yếu lí lịch-noun;1,3
+[ˌtreɪˈniː]
+trainee-thực tập sinh-noun;1,4
+[kæʃˈɪr]
+cashier-thu ngân-noun;1,4
+[fəˈɡɪv.nəs]
+forgiveness-sự tha thứ,sự tha lỗi-noun-2;5
+[ˌəʊ.vəˈdʒuː]
+overdue-quá hạn-adjective;1,3
+[ˈkæpətəl ˈlɛtər]
+capital letter-chữ viết hoa-noun;1,5
+[səbˈmɪt]
+submit-gửi đi,nộp-verb;2-3

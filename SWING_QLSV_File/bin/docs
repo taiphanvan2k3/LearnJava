@@ -1,0 +1,2 @@
+Các chú ý sau:
+-JTable chỉ hiển thị tiêu đề cột khi nó được add vào JScrollPane

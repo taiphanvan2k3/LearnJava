@@ -1,0 +1,9 @@
+Có 2 loại liên quan đến IO:
+1/ Đọc từng kí tự một (file văn bản) file mở được notepad, mở xong có thể đọc
+a/ Đọc: Reader
+b/ ghi: Writer
+2/ Đọc từng byte một (file nhị phân) file mở được bằng notepad, mở xong thì người dùng không hiểu gì
+a/ Đọc: InputStream
+b/ Ghi: OutputStream
+Chú ý Scanner chỉ đọc được file lưu ở dạng ANSI (AScii), không được lưu ở UTF-8
+Đối với file binary thì ta phải đọc kiểu Stream, đọc file nhị phân

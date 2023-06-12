@@ -1,0 +1,7 @@
+- final: không thể tạo ra lớp con
+- Thứ tự viết: public -> abstact-> final
+- Thứ tự viết kiểu dữ liệu cho biến: 
++ transient: gán vào để không muốn lưu các biến này vào bộ nhớ
++ volatile: không được 
+
+-CLASSPATH: click phải rồi chọn run as -> run confirguration -> 

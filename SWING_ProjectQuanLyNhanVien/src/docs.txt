@@ -1,0 +1,19 @@
+1/Phương thức setRowCount(int x) của lớp DefaultModelTable
+	-Nếu x> số lượng dòng hiện tại của table thì sẽ thêm các hàng
+	mới vào cuối
+	-Ngược lại các hàng có chỉ số vượt quá phạm vi mà ta đã set lại thì
+	sẽ bị loại bỏ
+2/Phương thức fireTableDataChanged()
+	-Notifies all listeners that all cell values in the table's rows 
+	may have changed. The number of rows may also have changed and 
+	the JTable should redraw the table from scratch. The structure of 
+	the table (as in the order of the columns) is assumed to be the same.
+3/setColumnIdentifiers của class DefaultModelTable
+4/table.getTableHeader().setFont( new Font( "Arial" , Font.BOLD, 15 ));
+->Thay đổi font của các tiêu đề
+5/((DefaultTableCellRenderer)tableSV.getTableHeader().getDefaultRenderer()).setHorizontalAlignment(SwingConstants.CENTER);
+để căn giữa các tiêu đề cột
+6/Thêm sự kiện cho các hàng của JTable ta dùng mouselistener
+7/setRowSelectionInterval của class JTable để sáng màu các hàng được trong trong phạm vi nào đó
+8/tableSV.getColumnModel().getColumn(2).setPreferredWidth(15); để thay đổi chiều rộng của cột
+https://tips4java.wordpress.com/2008/11/10/table-column-adjuster/

@@ -1,0 +1,6 @@
+- Một interface chỉ có thể extends từ 1 interface khác chứ không phải implements
+- 1 class k khai báo phạm vi có thể được định nghĩa bên trong 1 file của 1 class khác
+- Trong quá trình cấp phát thực thể, Java tự động kiểm tra nếu bộ nhớ heap sắp hết thì 
+sẽ thực hiện cơ chế dọn rác
+System.out.println(Runtime.getRuntime().freeMemory()); xác định bộ nhớ heap cấp phát cho chương trình
+còn lại bao nhiêu 

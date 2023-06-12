@@ -1,0 +1,3 @@
+Học event:
+-Trạng thái nhấn -> Dùng ActionListener
+-panel mặc định là flowlayout rồi nên k cần set flowlayout
